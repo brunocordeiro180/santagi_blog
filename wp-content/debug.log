@@ -1,0 +1,5 @@
+[02-Oct-2019 12:39:33 UTC] PHP Notice:  Trying to get property 'post_type' of non-object in /var/www/html/santagi/wp-content/plugins/advanced-custom-fields/includes/forms/form-comment.php on line 226
+[02-Oct-2019 12:40:59 UTC] PHP Notice:  Trying to get property 'post_type' of non-object in /var/www/html/santagi/wp-content/plugins/advanced-custom-fields/includes/forms/form-comment.php on line 226
+[02-Oct-2019 12:41:32 UTC] PHP Notice:  Trying to get property 'post_type' of non-object in /var/www/html/santagi/wp-content/plugins/advanced-custom-fields/includes/forms/form-comment.php on line 226
+[02-Oct-2019 12:41:41 UTC] PHP Notice:  Trying to get property 'post_type' of non-object in /var/www/html/santagi/wp-content/plugins/advanced-custom-fields/includes/forms/form-comment.php on line 226
+[07-Oct-2019 16:45:39 UTC] PHP Notice:  Trying to get property 'post_type' of non-object in /var/www/html/santagi/wp-content/plugins/advanced-custom-fields/includes/forms/form-comment.php on line 226
